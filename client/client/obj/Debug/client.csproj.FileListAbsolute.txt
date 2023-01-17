@@ -1,0 +1,24 @@
+C:\Users\ferdi\Desktop\SANLAB\tcp-app-ferdiuzen-ydk - Kopya\client\client\bin\Debug\client.exe.config
+C:\Users\ferdi\Desktop\SANLAB\tcp-app-ferdiuzen-ydk - Kopya\client\client\bin\Debug\client.exe
+C:\Users\ferdi\Desktop\SANLAB\tcp-app-ferdiuzen-ydk - Kopya\client\client\bin\Debug\client.pdb
+C:\Users\ferdi\Desktop\SANLAB\tcp-app-ferdiuzen-ydk - Kopya\client\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\ferdi\Desktop\SANLAB\tcp-app-ferdiuzen-ydk - Kopya\client\client\obj\Debug\client.csproj.SuggestedBindingRedirects.cache
+C:\Users\ferdi\Desktop\SANLAB\tcp-app-ferdiuzen-ydk - Kopya\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\ferdi\Desktop\SANLAB\tcp-app-ferdiuzen-ydk - Kopya\client\client\obj\Debug\client.exe
+C:\Users\ferdi\Desktop\SANLAB\tcp-app-ferdiuzen-ydk - Kopya\client\client\obj\Debug\client.pdb
+C:\Users\ferdi\Desktop\SANLAB\tcp-ip-ferdiuzen-1 - Kopya\client\client\bin\Debug\client.exe.config
+C:\Users\ferdi\Desktop\SANLAB\tcp-ip-ferdiuzen-1 - Kopya\client\client\bin\Debug\client.exe
+C:\Users\ferdi\Desktop\SANLAB\tcp-ip-ferdiuzen-1 - Kopya\client\client\bin\Debug\client.pdb
+C:\Users\ferdi\Desktop\SANLAB\tcp-ip-ferdiuzen-1 - Kopya\client\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\ferdi\Desktop\SANLAB\tcp-ip-ferdiuzen-1 - Kopya\client\client\obj\Debug\client.csproj.SuggestedBindingRedirects.cache
+C:\Users\ferdi\Desktop\SANLAB\tcp-ip-ferdiuzen-1 - Kopya\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\ferdi\Desktop\SANLAB\tcp-ip-ferdiuzen-1 - Kopya\client\client\obj\Debug\client.exe
+C:\Users\ferdi\Desktop\SANLAB\tcp-ip-ferdiuzen-1 - Kopya\client\client\obj\Debug\client.pdb
+C:\Users\ferdi\Desktop\SANLAB\tcp-ip-ferdiuzen-1 - last-ok - yedek\client\client\bin\Debug\client.exe.config
+C:\Users\ferdi\Desktop\SANLAB\tcp-ip-ferdiuzen-1 - last-ok - yedek\client\client\bin\Debug\client.exe
+C:\Users\ferdi\Desktop\SANLAB\tcp-ip-ferdiuzen-1 - last-ok - yedek\client\client\bin\Debug\client.pdb
+C:\Users\ferdi\Desktop\SANLAB\tcp-ip-ferdiuzen-1 - last-ok - yedek\client\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\ferdi\Desktop\SANLAB\tcp-ip-ferdiuzen-1 - last-ok - yedek\client\client\obj\Debug\client.csproj.SuggestedBindingRedirects.cache
+C:\Users\ferdi\Desktop\SANLAB\tcp-ip-ferdiuzen-1 - last-ok - yedek\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\ferdi\Desktop\SANLAB\tcp-ip-ferdiuzen-1 - last-ok - yedek\client\client\obj\Debug\client.exe
+C:\Users\ferdi\Desktop\SANLAB\tcp-ip-ferdiuzen-1 - last-ok - yedek\client\client\obj\Debug\client.pdb
